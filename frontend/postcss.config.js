@@ -1,6 +1,7 @@
-// ⚙️ Configuration PostCSS - Tailwind CSS v4
+// ⚙️ Configuration PostCSS - Tailwind CSS v3
 export default {
   plugins: {
-    '@tailwindcss/postcss': {},
+    tailwindcss: {},
+    autoprefixer: {},
   },
 }
