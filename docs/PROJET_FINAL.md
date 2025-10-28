@@ -1,4 +1,4 @@
-# 🏆 Projet Final - Start-up IA B2TP
+# 🏆 Projet Final - Start-up IA BTP
 
 [⬅ Retour au README](../README.md) | [📊 Business Plan](./BUSINESS_PLAN.md) | [🔍 Benchmarks](./BENCHMARKS.md)
 
@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-En%20attente%20du%20vote-orange)
 ![Phase](https://img.shields.io/badge/Phase-Sélection-blue)
 
-### 🗳️ Projet en cours de sélection par vote de la promo B2TP
+### 🗳️ Projet en cours de sélection par vote de la promo BTP
 
 </div>
 
@@ -19,7 +19,7 @@
 
 > ⏳ **Le vote est en cours...**
 > 
-> Chaque membre de la promo B2TP doit noter les 3 projets selon les 4 critères.
+> Chaque membre de la promo BTP doit noter les 3 projets selon les 4 critères.
 > Le projet avec le meilleur score pondéré sera sélectionné.
 
 ### 📊 Scores actuels (Temporaire)
@@ -40,7 +40,7 @@
 
 ### Justification du choix
 
-[Explication des raisons qui ont motivé le choix de ce projet par la promo B2TP]
+[Explication des raisons qui ont motivé le choix de ce projet par la promo BTP]
 
 ---
 

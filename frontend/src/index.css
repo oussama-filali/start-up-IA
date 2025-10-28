@@ -1,0 +1,68 @@
+/* 🎨 Styles globaux RevisAI */
+
+/* � Import Google Fonts (doit être avant @tailwind) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+/* 📦 Import Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 🎨 Variables CSS personnalisées */
+:root {
+  --primary: #6366F1;
+  --secondary: #8B5CF6;
+  --accent: #10B981;
+  --dark: #1F2937;
+  --light: #F9FAFB;
+}
+
+/* 🌐 Styles de base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: var(--light);
+  color: var(--dark);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* 🎯 Classes utilitaires personnalisées */
+.gradient-primary {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+}
+
+.gradient-text {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* 📜 Scrollbar personnalisée */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--light);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--primary);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--secondary);
+}

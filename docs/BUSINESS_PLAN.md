@@ -1,4 +1,4 @@
-# 📊 Business Plan - Start-up IA B2TP
+# 📊 Business Plan - Start-up IA BTP
 
 [⬅ Retour au README](../README.md)
 
@@ -17,7 +17,7 @@
 
 ## 🎯 Vue d'ensemble
 
-Ce document présente l'analyse business détaillée des **3 projets innovants** avec IA proposés par la promo B2TP.
+Ce document présente l'analyse business détaillée des **3 projets innovants** avec IA proposés par la promo BTP.
 
 ### 🎯 Objectif du vote
 
@@ -41,7 +41,7 @@ Score = (Rentabilité × 0.35) + (Bien commun × 0.30) + (Efficacité × 0.25) +
 
 ### Comment voter ?
 
-Chaque membre de la promo B2TP doit noter chaque projet de **1 à 10** sur les 4 critères.
+Chaque membre de la promo BTP doit noter chaque projet de **1 à 10** sur les 4 critères.
 
 **Feuille de vote :**
 

@@ -1,4 +1,4 @@
-# 📊 Audit Complet du Projet - Start-up IA B2TP
+# 📊 Audit Complet du Projet - Start-up IA BTP
 
 **Date de l'audit :** 21 octobre 2025  
 **Branche actuelle :** develop  
@@ -29,7 +29,7 @@ start-up-IA/
 
 ### 1. README.md (349 lignes)
 **Contenu :**
-- ✅ Vue d'ensemble du projet B2TP (promo école)
+- ✅ Vue d'ensemble du projet IA (promo école)
 - ✅ Présentation des 3 projets innovants avec IA
 - ✅ Tableau de classement initial :
   - 🥇 Plateforme d'apprentissage IA (⭐⭐⭐)
@@ -234,7 +234,7 @@ hotfix → main + develop (en cas d'urgence)
 
 ## 📝 Notes finales
 
-Ce projet a été conçu pour la **promo B2TP** avec :
+Ce projet a été conçu pour la **promo BTP** avec :
 - 3 projets innovants utilisant l'IA
 - Un système de vote transparent et équitable
 - Une documentation professionnelle et complète
@@ -245,5 +245,5 @@ Ce projet a été conçu pour la **promo B2TP** avec :
 ---
 
 **Audit réalisé le :** 21 octobre 2025  
-**Par :** GitHub Copilot + Équipe B2TP  
+**Par :** GitHub Copilot + Équipe BTP  
 **Status :** ✅ Validé et prêt pour commit

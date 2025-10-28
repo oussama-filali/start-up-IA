@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-en%20développement-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![B2TP](https://img.shields.io/badge/Promo-B2TP-purple.svg)
+![BTP](https://img.shields.io/badge/Promo-BTP-purple.svg)
 
 ### 🎓 Projet Start-up innovante avec IA - Promo B2 Temps Plein
 
@@ -20,7 +20,7 @@
 ## 📋 Table des matières
 
 ```
-📁 Start-up IA - B2TP
+📁 Start-up IA - BTP
 ├── 📖 Vue d'ensemble
 ├── 🎯 Objectifs du projet
 ├── 🏆 Classement des 3 projets
@@ -37,7 +37,7 @@
 
 ## 🌟 Vue d'ensemble
 
-Ce projet académique de la **promo B2TP** vise à créer une **start-up innovante** qui révolutionne un secteur en intégrant l'Intelligence Artificielle. Notre approche se concentre sur trois piliers fondamentaux :
+Ce projet académique de la **promo BTP** vise à créer une **start-up innovante** qui révolutionne un secteur en intégrant l'Intelligence Artificielle. Notre approche se concentre sur trois piliers fondamentaux :
 
 <table>
 <tr>
@@ -159,7 +159,7 @@ Outil IA pour générer automatiquement des devis et visualisations 3D de projet
 
 ---
 
-## 🎯 Objectifs du projet B2TP
+## 🎯 Objectifs du projet BTP
 
 ### Vision : Sélectionner et développer LA start-up innovante
 
@@ -204,7 +204,7 @@ Le business plan analyse en profondeur chaque projet avec :
 
 ### 🗳️ Système de vote
 
-Chaque membre de la promo B2TP peut voter pour chaque projet selon les 4 critères (note sur 10) :
+Chaque membre de la promo BTP peut voter pour chaque projet selon les 4 critères (note sur 10) :
 
 ```
 📊 Rentabilité 10 ans   : ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (poids 35%)
@@ -401,7 +401,7 @@ start-up-IA/
 - [x] Initialisation du repository
 - [ ] Compléter le business plan détaillé pour chaque projet
 - [ ] Effectuer les benchmarks approfondis
-- [ ] Organiser le vote B2TP selon les 4 critères
+- [ ] Organiser le vote BTP selon les 4 critères
 - [ ] Annoncer le projet gagnant
 
 ### Phase 2 : Conception (À venir)
@@ -429,9 +429,14 @@ start-up-IA/
 
 ## 👥 Équipe & Contribution
 
-### 🎓 Promo B2TP
+### 🎓 Promo BTP
 
 Ce projet est développé dans le cadre du programme **B2 Temps Plein** de notre école.
+
+### 👨‍💼 Collaborateurs
+
+- **Emile** - Développeur
+- **Raoul** - Développeur
 
 ### Comment contribuer ?
 
@@ -443,15 +448,15 @@ Ce projet est développé dans le cadre du programme **B2 Temps Plein** de notre
 
 ### 🗳️ Participer au vote
 
-**Membres de la promo B2TP** : Consultez le [Business Plan](./docs/BUSINESS_PLAN.md) pour voter et noter chaque projet selon les 4 critères !
+**Membres de la promo BTP** : Consultez le [Business Plan](./docs/BUSINESS_PLAN.md) pour voter et noter chaque projet selon les 4 critères !
 
 ---
 
 ## 📞 Contact
 
-- 📧 Email: b2tp@startup-ia.com
+- 📧 Email: btp@startup-ia.com
 - 🐙 GitHub: [@oussama-filali](https://github.com/oussama-filali)
-- 📱 Discord: [Serveur B2TP]
+- 📱 Discord: [Serveur BTP]
 - 🌐 Website: [En construction]
 
 ---
@@ -465,11 +470,11 @@ Ce projet est développé dans le cadre du programme **B2 Temps Plein** de notre
 
 ---
 
-**Fait avec ❤️ par la promo B2TP pour révolutionner un secteur avec l'IA**
+**Fait par la promo BTP pour révolutionner un secteur avec l'IA**
 
 *"L'éducation est l'arme la plus puissante pour changer le monde" - Nelson Mandela*
 
-[⬆ Retour en haut](#-start-up-ia---b2tp-innovation)
+[⬆ Retour en haut](#-start-up-ia---btp-innovation)
 
 </div>
 
