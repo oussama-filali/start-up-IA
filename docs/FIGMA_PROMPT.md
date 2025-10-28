@@ -165,8 +165,10 @@ Code : JetBrains Mono (pour extraits de code)
 - Mobile : 375x812 (navigation bottom)
 
 === ICONOGRAPHIE ===
-Style : Outline icons (Heroicons ou Lucide)
-Taille : 24px standard, 32px pour actions principales
+Bibliothèque : Font Awesome 6 (icônes vectorielles professionnelles)
+⚠️ IMPORTANT : Pas d'ASCII art, uniquement des vraies icônes vectorielles
+Style : Solid (remplissage) et Regular (outline)
+Taille : 1x à 4x selon contexte
 
 === ACCESSIBILITÉ ===
 - Contraste WCAG AA minimum
